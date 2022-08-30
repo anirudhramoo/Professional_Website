@@ -15,8 +15,6 @@ a:active {
   color: inherit;
 }
 
-#title {
-}
 /* NAVBAR --------------------------------------*/
 .navbar {
   padding: 3%;
@@ -90,8 +88,7 @@ a:active {
   background-color: #16161E;
   padding-top: 4rem;
   padding-bottom: 5rem;
-  line-height: 1.7rem;
-  color: white;
+  
   /* height: 100vh; */
 }
 .about-div {
@@ -483,9 +480,7 @@ a:active {
   .card {
     width: 40%;
   }
-  .title-header {
-    /* margin-top: 8rem; */
-  }
+  
   .projects-image {
     width: 80%;
   }
